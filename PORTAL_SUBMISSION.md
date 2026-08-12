@@ -6,7 +6,7 @@
 
 ## Notes / Description
 
-Built and deployed MIT-licensed QuestChain, a standalone GenLayer Intelligent Contract for prediction season passes, bingo cards, achievements, streaks, and unlockable quests. Deployment freezes up to eight milestones, per-milestone public HTTPS evidence, prerequisite DAG, points, cutoff, maximum wait, streak bonus, and spec ID. Validators independently return ordered ACHIEVED/FAILED/PENDING facts; deterministic code computes prerequisite-aware bitmasks, points, streaks, unlocks, and a one-time owner claim. Missing evidence stays WAIT, conflict is CONTESTED, and cancellation/max-wait is VOID; replay cannot double-award points. Includes pinned GenVM source, bitmask/claim/adversarial tests, full schema validation, audit, test matrix, and finalized StudioNet consensus evidence. It holds no reward funds.
+Built and deployed MIT-licensed QuestChain, a standalone GenLayer Intelligent Contract for prediction season passes, bingo cards, achievements, streaks, and unlockable quests. Deployment freezes up to eight milestones, per-milestone public HTTPS evidence, prerequisite DAG, points, cutoff, maximum wait, streak bonus, and spec ID. Validators independently return ordered ACHIEVED/FAILED/PENDING facts; deterministic code computes prerequisite-aware bitmasks, points, streaks, unlocks, and a one-time owner claim. Missing evidence stays WAIT, conflict is CONTESTED, and cancellation/max-wait is VOID; replay cannot double-award points. Includes pinned GenVM source, bitmask/claim/adversarial tests, full schema validation, audit, test matrix, and finalized StudioNet/Bradbury consensus evidence. It holds no reward funds.
 
 ## Evidence to add
 

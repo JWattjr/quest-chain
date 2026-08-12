@@ -4,6 +4,7 @@
   "chain_id": 61999,
   "deployer": "0x2C8EB5dB1105A85BE66BadafeD88D10cF393CDD8",
   "source_file": "contracts/QuestChain.py",
+  "source_commit": "6bdf7c09999d857e0f16f86fef5c6f284251c869",
   "contract_address": "0xCd22cE863023387211b6D13Fb2049785F587b903",
   "deployment_transaction": "0x46445cb8c18d71b1500b5fa9352d01760682b383385ddd724811515af7a3f181",
   "explorer_url": "https://explorer-studio.genlayer.com/address/0xCd22cE863023387211b6D13Fb2049785F587b903",
